@@ -1,0 +1,1 @@
+If you would like to move the seatbelt icon check html/style.css
